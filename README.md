@@ -19,3 +19,5 @@
 - Fire rescue operations
 - Smart safety systems
 - Emergency response systems
+ ## software ##
+ - blynk iot software
